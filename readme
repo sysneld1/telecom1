@@ -1,0 +1,5 @@
+запускать в окружении env1:
+
+source env1/bin/activate
+
+python manage.py runserver 0.0.0.0:8000
